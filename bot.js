@@ -1,7 +1,7 @@
 const Discord = require('discord.js'),
     bot = new Discord.Client({sisableEveryone: true})
     console.log("muuuuute,");
-const client = new Discord.Client();
+
 
 
 
