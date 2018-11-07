@@ -39,7 +39,7 @@ client.on('message', message => {
   });
 
   
-;
+
 
 client.on("message", message => {
 var prefix = "_";
